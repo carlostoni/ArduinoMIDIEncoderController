@@ -28,9 +28,9 @@ MIDI Mixer
 </p>
 
 ## Wiring Diagram
-![Untitled Sketch 2_bb](https://github.com/carlostoni/ArduinoMIDIEncoderController/assets/80012970/affd6769-a6bc-4979-9fc9-3a20e89f9713)
+![Untitled Sketch 2_bb](https://github.com/carlostoni/ArduinoMIDIEncoderController/assets/80012970/971fbe5a-fd81-4997-93f9-2a67fd259edc)
 
-## Assembled Project!
+## Assembled Project
 ![midi](https://github.com/carlostoni/ArduinoMIDIEncoderController/assets/80012970/8bffcd88-4fce-4e25-b3d2-687adfa83afe)
 
 
