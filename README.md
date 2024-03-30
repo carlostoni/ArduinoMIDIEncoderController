@@ -1,7 +1,7 @@
 # ArduinoMIDIEncoderController
 This is a code for a MIDI controller made with Arduino that utilizes encoders to control volume and other MIDI functions. The code makes use of the Control Surface library to simplify MIDI communication.
 
-The controller features encoders for adjusting volume and three additional encoders for additional functions. Additionally, there's a button matrix configured to send MIDI notes corresponding to the pressed buttons.
+The controller features encoders for adjusting volume. Additionally, there's a button matrix configured to send MIDI notes corresponding to the pressed buttons.
 
 The code monitors the states of the encoders and detects the rotation direction to increase or decrease the volume, limiting it between the minimum and maximum values supported by the MIDI protocol (0-127). When there's a volume change, a MIDI control message is sent.
 
