@@ -22,7 +22,7 @@ MIDI Mixer
  -  16x Push button 2 pin
  -  8x Resistor 10k
 
-# ArduinoMIDIEncoderController V2
+# ArduinoMIDIEncoderController V2 - V3
 Here are the improvements you can apply to your code:
 
 ### 1. **Organize and Simplify the Encoder Code**
